@@ -2,6 +2,9 @@
   "name": "mern",
   "version": "1.0.0",
   "description": "Shopping list built with the MERN stack",
+  "engines": {
+    "node": "14.17.0"
+  },
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
